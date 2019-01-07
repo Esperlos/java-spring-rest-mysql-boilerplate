@@ -7,3 +7,4 @@ This project supposed to be a boilerplate for starting a secure and standard and
 - [ ] Add security concepts
 - [ ] Using a suitable java strategy pattern and foldering
 - [ ] An easy to maintain routing system
+- [ ] Add easy to use react.js integeration
