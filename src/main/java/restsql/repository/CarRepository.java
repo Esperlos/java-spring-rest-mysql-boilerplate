@@ -1,8 +1,8 @@
-package restsql;
+package restsql.repository;
 
 import org.springframework.data.repository.CrudRepository;
 
-import restsql.Car;
+import restsql.model.Car;
 
 // This will be AUTO IMPLEMENTED by Spring into a Bean called userRepository
 // CRUD refers Create, Read, Update, Delete
