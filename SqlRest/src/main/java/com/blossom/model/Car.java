@@ -1,4 +1,5 @@
 package com.blossom.model;
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -20,4 +21,10 @@ public class Car {
 		this.name = name;
 	}
 
+	public Car() {
+	}
+
+	public Car(String name) {
+		this.name = name;
+	}
 }
